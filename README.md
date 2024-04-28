@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sabyasachi Banerjee</h1>
+<h1 align="center">Sabyasachi Banerjee</h1>
 <h3 align="center">Tech Enthusiast Exploring wide range of Technologies</h3>
 <img src="https://th.bing.com/th/id/OIP.vyA9ldzEGzJrnEsTmbWekAHaEK?w=310&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" align="right" alt = "coding" width = "400"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabyasachi123618&label=Profile%20views&color=0e75b6&style=flat" alt="sabyasachi123618" /> </p>
